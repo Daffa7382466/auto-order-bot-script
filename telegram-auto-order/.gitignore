@@ -1,6 +1,0 @@
-node_modules/
-.env
-*.log
-data/*.json
-script_product/*.zip
-*.tmp
